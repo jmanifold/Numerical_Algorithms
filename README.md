@@ -1,3 +1,2 @@
-#Numerical_Algorithms
-
-A collection of algorithms to solve various problems numerically, most of which were written for my Mech 105 course.
+# Numerical_Algorithms
+This folder contains a collection of algorithms to perform various numerical goals. These codes were written for my Mech 103 and mech 105 courses as an exercise of establishing a strong understanding of how to use MATLAB. 
